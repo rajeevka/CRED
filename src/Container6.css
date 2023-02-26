@@ -1,0 +1,22 @@
+.Container6{
+    height: 70vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(19, 15, 15);
+    color: white;
+}
+.Container6 .one{
+    width: 40%;
+    height: 70%;
+}
+.Container6 .one h1{
+    font-size: 60px;
+    line-height: 20px;
+}
+.Container6 .one p{
+    line-height: 10px;
+}
+.Container6 .one img{
+    height: 100%;
+}

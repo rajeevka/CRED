@@ -1,0 +1,11 @@
+.Container10{
+    height: 130vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #212121;
+    color: white;
+    font-size: 13px;
+
+}

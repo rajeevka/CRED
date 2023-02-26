@@ -1,0 +1,9 @@
+.mobileimages{
+  height: 90vh;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  background-color: black;
+}

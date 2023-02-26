@@ -1,0 +1,12 @@
+.Footer{
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #101010;
+    color: white;
+}
+.Footer .one{
+    width: 30%;
+    height: 70%;
+}

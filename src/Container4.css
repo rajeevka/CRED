@@ -1,0 +1,14 @@
+.Container4{
+    height: 30vh;
+    width:98vw;
+    box-sizing: border-box;
+    background-color: rgb(244, 248, 252);
+}
+.Container4 .companylogs{
+    box-sizing: border-box;
+    width: 100%;
+    box-sizing: border-box;
+}
+.Container4 .companylogs img{
+    width: 90%;
+}

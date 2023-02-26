@@ -1,0 +1,30 @@
+.Container5{
+    height: 90vh;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(46, 73, 246);
+    color: white;
+}
+.Container5 .one{
+    /* border: 2px solid red; */
+    width: 35%;
+    margin-left: 130px;
+    margin-top: 100px;
+    
+}
+.Container5 .one h1{
+  font-size: 50px;
+  line-height: 35px;
+}
+.Container5 .one button{
+    height: 48px;
+    width: 220px;
+    border-radius: 30px;
+    border: navajowhite;
+    cursor: pointer;
+    background-color: white;
+
+}

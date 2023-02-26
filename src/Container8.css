@@ -1,0 +1,15 @@
+.Container8{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(115, 171, 115);
+    color: rgb(255, 255, 255);
+}
+.Container8 .one{
+    width: 40%;
+}
+.Container8 .one h1{
+    font-size: 50px;
+    line-height: 15px;
+}
